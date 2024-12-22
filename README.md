@@ -8,9 +8,10 @@ Simple snake game developed within one week, Game was created through Java using
 
 
 **JAVA**
-- Code files written here:
 
-## Class window
+## Code files written here:
+
+### Class window
 ```sh
 package mainWindow;
 
@@ -44,7 +45,7 @@ public class window {
 ```
 
 
-## Class keyH
+### Class keyH
 ```sh
 package mainWindow;
 
@@ -91,7 +92,7 @@ public class keyH implements KeyListener{
 
 ```
 
-## Class mechanics
+### Class mechanics
 ```sh
 package mainWindow;
 
