@@ -1,5 +1,8 @@
 # Snake
 Simple snake game developed within one week, Game was created through Java using Eclipse, Got a better understanding of Java's GUI
+
+### Link to download files, click on GIF
+
 [![snakeGIF](https://github.com/user-attachments/assets/9693614a-92c6-4f93-85d5-d62e644429f7)](https://github.com/maxwelllokshin1/javaProjects/blob/main/Jar%20File%20games/snek.zip)
 
 
